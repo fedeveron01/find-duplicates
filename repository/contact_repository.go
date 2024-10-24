@@ -3,8 +3,9 @@ package repositories
 import (
     "encoding/csv"
     "os"
-    "contact-duplicate-detector/entities/contacts"
     "log"
+
+	"contact_duplicate_detector/entities/contacts"
 )
 
 type CSVContactRepository struct {

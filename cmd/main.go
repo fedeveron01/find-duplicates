@@ -1,7 +1,7 @@
 package main
 
 import (
-    "contact_duplicate_detector/repositories" 
+    "contact_duplicate_detector/repository" 
     "contact_duplicate_detector/usecases" 
     "fmt"
 )
