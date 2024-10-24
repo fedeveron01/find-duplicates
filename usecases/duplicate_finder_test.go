@@ -1,9 +1,8 @@
 package usecases
 
 import (
-	"testing"
-
 	"contact_duplicate_detector/entities/contacts"
+	"testing"
 
 	"github.com/stretchr/testify/assert"
 )
